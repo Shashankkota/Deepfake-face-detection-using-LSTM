@@ -1,6 +1,5 @@
-Here is a complete and professional **README.md** for your Tkinter-based **Deepfake Face Detection System using CNN + LSTM**:
 
----
+
 
 # 🧠 Unveiling the Unreal: Deepfake Face Detection using LSTM
 
