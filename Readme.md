@@ -1,7 +1,7 @@
 
 
 
-# 🧠 Unveiling the Unreal: Deepfake Face Detection using LSTM
+# 🧠  Deepfake Face Detection using LSTM
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![UI](https://img.shields.io/badge/UI-Tkinter-lightblue.svg)
